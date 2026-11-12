@@ -1,0 +1,3 @@
+displayName = Terra Steal
+author = TerraSteal Team
+version = 0.1

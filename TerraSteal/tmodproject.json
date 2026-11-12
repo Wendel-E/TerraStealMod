@@ -1,0 +1,14 @@
+{
+  "rootNamespace": "TerraSteal",
+  "fileMap": {
+    "Common/Players/TrueMeleePlayer.cs": "TerraSteal.Common.Players",
+    "Content/Items/Consumables/BasicKit0.cs": "TerraSteal.Content.Items.Consumables",
+    "Content/Items/Consumables/BasicKit2.cs": "TerraSteal.Content.Items.Consumables",
+    "Content/Items/Consumables/BasicKit1.cs": "TerraSteal.Content.Items.Consumables",
+    "Content/Projectiles/TrueNigthsEdgeStatic.cs": "TerraSteal.Content.Projectiles",
+    "Content/ItemChanges/Weapon/TerraBladeMod.cs": "TerraSteal.Content.ItemChanges.Weapon",
+    "Content/ItemChanges/Weapon/TrueExcaliburMod.cs": "TerraSteal.Content.ItemChanges.Weapon",
+    "Content/ItemChanges/Weapon/TrueNightsEdgeBk.cs": "TerraSteal.Content.ItemChanges.Weapon",
+    "Content/ItemChanges/Weapon/TrueNightsEdgeMod.cs": "TerraSteal.Content.ItemChanges.Weapon"
+  }
+}

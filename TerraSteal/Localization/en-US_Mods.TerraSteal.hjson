@@ -1,0 +1,21 @@
+Items: {
+	TrueWarriorEmblem: {
+		Tooltip: ""
+		DisplayName: True Warrior Emblem
+	}
+
+	BasicKit0: {
+		DisplayName: Basic Kit0
+		Tooltip: ""
+	}
+
+	BasicKit1: {
+		DisplayName: Basic Kit1
+		Tooltip: ""
+	}
+
+	BasicKit2: {
+		DisplayName: Basic Kit2
+		Tooltip: ""
+	}
+}
